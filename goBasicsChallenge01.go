@@ -2,7 +2,7 @@ package main
 import "fmt"
 func main() {
 
-fmt.Println("John Doe")
+fmt.Println("Walter Mangra")
 fmt.Println("Wilmington, Delaware")
 
 }
